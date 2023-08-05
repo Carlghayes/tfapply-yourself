@@ -1,6 +1,7 @@
 I was bored, so I created a project leveraging two popular technologies in the DevOps Space:
 
 1.)Terraform
+
 2.)AWS Cloud
 
 Project Prompt:
